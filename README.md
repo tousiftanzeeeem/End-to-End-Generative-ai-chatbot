@@ -1,1 +1,1 @@
-# End-to-End-Generative-ai-chatbot
+# End-to-End-Medical-ai-chatbot
